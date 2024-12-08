@@ -24,6 +24,8 @@ Code coming soon.
 
 <p align='center'><img src="https://github.com/chandramouli-sastry/diffaug_website/blob/main/static/images/imnet_c2.png"></p>
 <p align='center'><img src='https://github.com/chandramouli-sastry/diffaug_website/blob/main/static/images/glimpse_results.png'></p>
-<p align='center' width='90%'><img src='https://github.com/chandramouli-sastry/diffaug_website/blob/main/static/images/pag_cg.png' /></p>
+<p align='center' width='90%'><img src='https://github.com/chandramouli-sastry/diffaug_website/blob/main/static/images/pag_cg.png' />
+DiffAug can be used to promote Perceptually Aligned Gradients and this can enhance classifier-guided generation. See Theorem 1 in paper for theoretical intuitions. 
+</p>
 
 ---
