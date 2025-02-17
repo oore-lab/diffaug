@@ -2,13 +2,12 @@
 
 [OpenReview](https://openreview.net/forum?id=Tpx9gcZVBf) [Poster](https://github.com/chandramouli-sastry/diffaug_website/blob/main/static/pdfs/poster_final.pdf)
 
-Code coming soon.
+This repository contains code for training and evaluating classifiers using DiffAug augmentation. For classifier-guided generation and evaluation, we used the code provided by [guided-diffusion](https://github.com/openai/guided-diffusion) and [score-matching-sde](https://github.com/yang-song/score_sde_pytorch). The checkpoints for reproducing the results are available [here](https://drive.google.com/drive/folders/1FZiKlN3Ic2f-5FTrrmCWZPjRSq2Y4rcO?usp=sharing). 
 
 ---
 ## <p align='center'>Key Idea: Use <b><i>intermediate-images/partially-synthesized</i></b> diffusion-samples to train robust classifiers.</p>
 
 <p align='center'><img src='https://github.com/chandramouli-sastry/diffaug_website/blob/main/static/images/diffaug_illustration.jpg' width='50%'/></p>
-
 ---
 
 <b>Highlights:</b>
